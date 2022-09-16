@@ -3,12 +3,6 @@
 - This repository is a note of basic implementations and concepts of algorithms for problem solving using Java.
 
 -------------------
- - [점프 투 자바](https://wikidocs.net/book/31)(basic syntax)
- - [TCP School](http://tcpschool.com/java/intro)(syntax in korean)
- - [The Collections Framework](https://docs.oracle.com/javase/8/docs/technotes/guides/collections/index.html)(oracle)
- 
-
--------------------
 
 ## Sort
 
@@ -48,3 +42,11 @@
    * 2D prefix
 
  - Sliding Window
+
+-------------------
+## References
+
+ - [점프 투 자바](https://wikidocs.net/book/31)(basic syntax)
+ - [TCP School](http://tcpschool.com/java/intro)(syntax in korean)
+ - [The Collections Framework](https://docs.oracle.com/javase/8/docs/technotes/guides/collections/index.html)(oracle)
+ 
