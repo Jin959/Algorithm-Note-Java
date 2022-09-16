@@ -24,8 +24,8 @@
 
 ## Graph
 
- - [DFS](https://github.com/Jin959/Algorithm-Note-Java/Graph/src/DFS.java)
- - [BFS](https://github.com/Jin959/Algorithm-Note-Java/Graph/src/BFS.java)
+ - [DFS](https://github.com/Jin959/Algorithm-Note-Java/blob/master/Graph/src/DFS.java)
+ - [BFS](https://github.com/Jin959/Algorithm-Note-Java/blob/master/Graph/src/BFS.java)
  - Dijkstra
  - Union-Find
  - MST
