@@ -3,6 +3,12 @@
 - This repository is a note of basic implementations and concepts of algorithms for problem solving using Java.
 
 -------------------
+ - [점프 투 자바](https://wikidocs.net/book/31)(basic syntax)
+ - [TCP School](http://tcpschool.com/java/intro)(syntax in korean)
+ - [The Collections Framework](https://docs.oracle.com/javase/8/docs/technotes/guides/collections/index.html)(oracle)
+ 
+
+-------------------
 
 ## Sort
 
@@ -18,8 +24,8 @@
 
 ## Graph
 
- - BFS
- - DFS
+ - [DFS](https://github.com/Jin959/Algorithm-Note-Java/Graph/src/DFS.java)
+ - [BFS](https://github.com/Jin959/Algorithm-Note-Java/Graph/src/BFS.java)
  - Dijkstra
  - Union-Find
  - MST
